@@ -1,5 +1,6 @@
 ﻿using IRepository;
 using log4net;
+using Models;
 using System.Web.Mvc;
 
 namespace HotelManagerWeb.Controllers
@@ -16,22 +17,23 @@ namespace HotelManagerWeb.Controllers
         public ActionResult Index()
         {
             Logger.Info("Start to get customer infos.");
-            var fistCustomer = _customerService.GetCustomerInfos("Jeff");
-            return View();
+            var customerList = _customerService.GetCustomerInfos("");
+            return View(Json(customerList));
         }
-
-        public ActionResult About()
+        public ActionResult Edit(int id)
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+            var result = new CustomerInfos();
+            if (id > 0)
+            {
+                result = _customerService.GetCustomerInfoById(id);
+            }
+            return View(result);
         }
-
-        public ActionResult Contact()
+        public ActionResult Save(CustomerInfos customerInfo)
         {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            _customerService.Save(customerInfo);
+            var customerList = _customerService.GetCustomerInfos("");
+            return View("Index", Json(customerList));
         }
     }
 }

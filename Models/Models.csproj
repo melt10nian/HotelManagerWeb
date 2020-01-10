@@ -51,11 +51,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
-    <Compile Include="CustomerInfo.cs" />
+    <Compile Include="CustomerInfos.cs" />
     <Compile Include="HotelDBContext.cs" />
-    <Compile Include="Migrations\201912020239004_first.cs" />
-    <Compile Include="Migrations\201912020239004_first.Designer.cs">
-      <DependentUpon>201912020239004_first.cs</DependentUpon>
+    <Compile Include="Migrations\202001100805423_1.cs" />
+    <Compile Include="Migrations\202001100805423_1.Designer.cs">
+      <DependentUpon>202001100805423_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202001100823048_2.cs" />
+    <Compile Include="Migrations\202001100823048_2.Designer.cs">
+      <DependentUpon>202001100823048_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202001100829425_3.cs" />
+    <Compile Include="Migrations\202001100829425_3.Designer.cs">
+      <DependentUpon>202001100829425_3.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,8 +74,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201912020239004_first.resx">
-      <DependentUpon>201912020239004_first.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202001100805423_1.resx">
+      <DependentUpon>202001100805423_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202001100823048_2.resx">
+      <DependentUpon>202001100823048_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202001100829425_3.resx">
+      <DependentUpon>202001100829425_3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

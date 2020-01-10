@@ -6,3 +6,276 @@
 2019-12-02 16:29:37,272 [7] INFO  HomeController - Start to get customer infos.
 2019-12-02 16:30:06,465 [9] INFO  HomeController - Start to get customer infos.
 2019-12-02 16:30:18,430 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:34:01,271 [5] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:34:01,279 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:34:03,286 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:52:25,279 [5] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:52:25,279 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:52:27,317 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:53:08,645 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:53:08,653 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:53:10,500 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:55:47,071 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:55:47,071 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:55:48,313 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:55:52,845 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:55:52,845 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:57:49,488 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:57:49,495 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:58:06,288 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:58:48,325 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:58:48,325 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:58:53,913 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 13:59:39,141 [9] INFO  HomeController - Start to get customer infos.
+2020-01-10 13:59:39,141 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 13:59:39,160 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:01:00,145 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:01:00,145 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:01:00,177 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:02:35,879 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:02:35,880 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:02:35,901 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:02:37,684 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:02:37,684 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:02:37,727 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:02:39,103 [13] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:02:39,103 [13] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:02:39,127 [13] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:02:40,333 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:02:40,333 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:02:40,360 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:06:36,749 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:06:36,749 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:06:36,771 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:07:58,455 [12] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:07:58,455 [12] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:07:58,483 [12] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:08:03,007 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:08:03,007 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:08:03,025 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:10:37,261 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:10:37,261 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:10:37,285 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:12:03,915 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:12:03,915 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:12:03,935 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:12:23,482 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:12:23,482 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:12:23,503 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:13:45,201 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:13:45,201 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:13:45,219 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:14:35,424 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:14:35,424 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:14:35,443 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:14:41,517 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:14:41,517 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:14:41,553 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:14:43,567 [46] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:14:43,567 [46] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:14:43,583 [46] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:18:04,361 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:18:04,369 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:18:04,950 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:18:51,568 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:18:51,575 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:18:52,180 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:23:21,939 [5] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:23:21,946 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:23:22,463 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:29:43,221 [5] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:29:43,228 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:29:43,811 [5] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:29:51,465 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:29:51,491 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:30:56,440 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:30:56,448 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:30:57,062 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:31:14,294 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:31:14,338 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:31:20,289 [14] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:31:20,313 [14] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:46:31,845 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:46:31,852 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:46:32,395 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:46:37,008 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:46:37,028 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:48:36,473 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 14:48:36,473 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:48:36,499 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 14:48:42,735 [16] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 14:48:42,753 [16] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:16:46,659 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:16:46,667 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:16:48,942 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:16:57,012 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:16:57,030 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:17:02,435 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:17:02,435 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:17:02,458 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:20:16,074 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:20:16,082 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:20:16,800 [8] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:20:20,604 [9] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:20:20,604 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:20:20,620 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:20:24,188 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:20:24,212 [9] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:21:38,887 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:21:38,894 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:21:39,547 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:21:44,334 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:21:44,360 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:30:28,030 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:30:28,039 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:30:28,690 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:30:33,694 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:30:33,725 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:31:10,319 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:31:10,335 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:31:31,494 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:31:31,543 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:20,415 [11] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:32:20,415 [11] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:20,437 [11] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:34,516 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:32:34,516 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:34,539 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:42,810 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:42,834 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:45,063 [14] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:32:45,063 [14] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:45,081 [14] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:47,250 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:47,269 [7] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:32:51,160 [11] INFO  HomeController - Start to get customer infos.
+2020-01-10 15:32:51,160 [11] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:32:51,206 [11] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 15:33:05,243 [10] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is entry.
+2020-01-10 15:33:05,276 [10] DEBUG Repository.CustomerService - Models.CustomerInfo.GetCustomerInfos is finished.
+2020-01-10 16:09:13,106 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:09:13,113 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:09:13,693 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:19:15,578 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:19:15,585 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:19:16,244 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:19:34,270 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:19:34,516 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:19:34,516 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:19:34,718 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:20:09,378 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:20:09,662 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:20:09,662 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:20:09,925 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:20:26,067 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:20:26,252 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:20:26,252 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:20:26,467 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:21:14,851 [9] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:21:14,852 [9] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:21:15,083 [9] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:21:17,622 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:21:17,622 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:21:17,854 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:22:24,196 [15] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:23:49,052 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:23:49,063 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:23:49,850 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:24:13,053 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:24:20,310 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:24:20,310 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:24:20,333 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:25:27,829 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:25:27,867 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:25:27,867 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:25:27,896 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:25:33,639 [8] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:25:33,639 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:25:33,663 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:25:39,067 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:25:39,092 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:25:45,044 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:25:45,062 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:25:45,062 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:25:45,081 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:27:04,687 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:27:04,687 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:27:04,705 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:27:07,822 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:27:07,856 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:27:21,538 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:28:19,045 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:28:19,045 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:28:19,157 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:28:21,654 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:28:21,704 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:28:43,734 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:28:43,794 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:28:43,794 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:28:43,832 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:28:47,320 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:28:47,350 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:40:29,737 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:40:29,745 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:40:30,399 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:40:48,073 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:40:48,106 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:40:59,483 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:40:59,539 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:40:59,539 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:40:59,554 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:09,897 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:41:09,917 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:41:20,109 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:20,196 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:20,196 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:20,219 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:23,595 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:41:23,612 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:41:34,006 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:34,053 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:34,053 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:34,069 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:51,713 [17] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:51,752 [17] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:51,752 [17] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:41:51,769 [17] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:41:59,217 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:41:59,236 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:42:01,246 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:42:01,246 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:42:01,265 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:42:49,746 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:42:49,753 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:42:50,283 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:43:05,046 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:43:05,046 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:43:05,077 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:43:19,152 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:43:19,152 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:43:19,182 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:43:26,681 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 16:43:26,720 [8] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 16:43:29,929 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:43:29,929 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:43:29,949 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:45:54,408 [7] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:45:54,408 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:45:54,423 [7] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:45:59,145 [32] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:45:59,145 [32] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:45:59,161 [32] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 16:46:02,713 [32] INFO  HomeController - Start to get customer infos.
+2020-01-10 16:46:02,713 [32] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 16:46:02,734 [32] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 17:05:21,866 [67] INFO  HomeController - Start to get customer infos.
+2020-01-10 17:05:21,866 [67] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 17:05:21,893 [67] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 17:05:58,633 [68] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is entry.
+2020-01-10 17:05:58,651 [68] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfoById is finished.
+2020-01-10 17:06:01,272 [69] INFO  HomeController - Start to get customer infos.
+2020-01-10 17:06:01,272 [69] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 17:06:01,289 [69] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.
+2020-01-10 17:06:18,028 [67] INFO  HomeController - Start to get customer infos.
+2020-01-10 17:06:18,028 [67] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is entry.
+2020-01-10 17:06:18,044 [67] DEBUG Repository.CustomerService - Repository.CustomerService.GetCustomerInfos is finished.

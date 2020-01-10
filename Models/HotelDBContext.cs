@@ -14,7 +14,7 @@ namespace Models
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
 
-        public DbSet<CustomerInfo> CustomerInfo { get; set; }
+        public DbSet<CustomerInfos> CustomerInfo { get; set; }
 
         public DbSet<TestModel> TestTable { get; set; }
     }

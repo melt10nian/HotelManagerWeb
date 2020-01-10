@@ -5,6 +5,8 @@ namespace IRepository
 {
     public interface ICustomerService
     {
-        List<CustomerInfo> GetCustomerInfos(string username);
+        List<CustomerInfos> GetCustomerInfos(string username);
+        CustomerInfos GetCustomerInfoById(int id);
+        void Save(CustomerInfos customerInfo);
     }
 }
